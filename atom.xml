@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Plasma]]></title>
+  <title><![CDATA[Hexo]]></title>
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
@@ -8,7 +8,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name><![CDATA[Yao_Jf]]></name>
+    <name><![CDATA[John Doe]]></name>
     
   </author>
   
