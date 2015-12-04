@@ -1744,7 +1744,7 @@ footer {
   display: block;
   width: 0.5em;
   height: 6.25em;
-  border-right: 0.125em solid #fff;
+  border-right: 0.125em solid #4169e1;
   margin: 0 auto;
 }
 @media only screen and (min-width: 768px) {
@@ -1865,7 +1865,7 @@ footer {
   -moz-osx-font-smoothing: grayscale;
   font-family: "covered_by_your_graceregular";
   width: 100%;
-  color: #fff;
+  color: #ccc;
   text-align: center;
 }
 @media only screen and (min-width: 768px) {
@@ -1874,7 +1874,7 @@ footer {
   }
 }
 .copyright a {
-  color: #fff;
+  color: #ccc;
 }
 .copyright a:hover {
   color: #2ca6cb;
