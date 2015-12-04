@@ -4,7 +4,7 @@
   <subtitle><![CDATA[路漫漫其修远兮]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://plasmayao.pw/"/>
-  <updated>2015-11-29T13:55:42.584Z</updated>
+  <updated>2015-12-04T04:27:33.259Z</updated>
   <id>http://plasmayao.pw/</id>
   
   <author>
@@ -19,10 +19,12 @@
     <link href="http://plasmayao.pw/2015/11/29/second/"/>
     <id>http://plasmayao.pw/2015/11/29/second/</id>
     <published>2015-11-29T13:55:42.000Z</published>
-    <updated>2015-11-29T13:55:42.584Z</updated>
-    <content type="html"></content>
+    <updated>2015-12-04T04:27:33.259Z</updated>
+    <content type="html"><![CDATA[<p>new</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>new</p>
+]]>
     </summary>
     
   </entry>
