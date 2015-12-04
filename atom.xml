@@ -4,7 +4,7 @@
   <subtitle><![CDATA[路漫漫其修远兮]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://plasmayao.pw/"/>
-  <updated>2015-12-04T13:46:07.288Z</updated>
+  <updated>2015-12-04T05:35:23.508Z</updated>
   <id>http://plasmayao.pw/</id>
   
   <author>
@@ -13,32 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[new]]></title>
-    <link href="http://plasmayao.pw/2015/12/04/new/"/>
-    <id>http://plasmayao.pw/2015/12/04/new/</id>
-    <published>2015-12-04T13:46:07.000Z</published>
-    <updated>2015-12-04T13:46:07.288Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[hello]]></title>
-    <link href="http://plasmayao.pw/2015/12/04/hello/"/>
-    <id>http://plasmayao.pw/2015/12/04/hello/</id>
-    <published>2015-12-04T13:34:31.000Z</published>
-    <updated>2015-12-04T13:34:31.581Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
