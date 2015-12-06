@@ -1887,14 +1887,14 @@ footer {
   overflow: auto;
   color: #c5c8c6;
   line-height: 1.5;
-  font-size: 110%;
+  font-size: 112%;
 }
 .article-content .highlight .gutter pre,
 .article-content .gist .gist-file .gist-data .line-numbers {
-  color: #666;
+  color: #009;
   font-size: 0.85em;
   line-height: 1.5;
-  font-size: 110%;
+  font-size: 112%;
 }
 .article-content pre {
   font-family: Monaco, Menlo, Consolas, Courier New, monospace;
@@ -1998,7 +1998,7 @@ pre .doctype,
 pre .id,
 pre .class,
 pre .pseudo {
-  color: #c66;
+  color: #f69;
 }
 pre .number,
 pre .preprocessor,
