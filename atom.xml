@@ -44,24 +44,13 @@
     <link href="http://plasmayao.pw/2015/11/29/second/"/>
     <id>http://plasmayao.pw/2015/11/29/second/</id>
     <published>2015-11-29T13:55:42.000Z</published>
-    <updated>2015-12-04T12:30:17.150Z</updated>
-    <content type="html"><![CDATA[<p>new<br>1asq<br>121</p>
-<p>251<br>以上是摘要</p>
-<a id="more"></a>
-<p>以下是余下全文</p>
+    <updated>2015-12-07T04:26:19.718Z</updated>
+    <content type="html"><![CDATA[<p>new</p>
 <h2 id="公式">公式</h2><p>$$J_\alpha(x)=\sum _{m=0}^\infty \frac{(-1)^ m}{m! \, \Gamma (m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^{2 m + \alpha }$$</p>
-<p>1<br>1<br>1<br>1<br>1</p>
-<p>1<br>1<br>1<br>1<br>1</p>
-<pre><code><span class="number">111</span>
-<span class="number">12</span>
-</code></pre><p>1<br>以上是摘要</p>
-<!--more-->
-<p>以下是余下全文</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>new<br>1asq<br>121</p>
-<p>251<br>以上是摘要</p>]]>
-    
+    <![CDATA[<p>new</p>
+<h2 id="公式">公式</h2><p>$$J_\alpha(x)=\sum _{m=0}^\infty \frac{(-1)^ m}{m! \, \Gamma (m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^]]>
     </summary>
     
       <category term="数学" scheme="http://plasmayao.pw/tags/%E6%95%B0%E5%AD%A6/"/>
