@@ -113,7 +113,7 @@ a img {
 body {
   background: #ddd;
   font-family: "Helvetica Neue", "Helvetica", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
-  font-size: 110%;
+  font-size: 100%;
   color: #817c7c;
   line-height: 1.5;
 }
@@ -427,19 +427,19 @@ body >header a {
 #textlogo h1.site-name {
   width: 86%;
   font-family: "covered_by_your_graceregular";
-  font-size: 210%;
+  font-size: 200%;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 @media only screen and (min-width: 768px) {
   #textlogo h1.site-name {
-    font-size: 250%;
+    font-size: 240%;
   }
 }
 @media only screen and (min-width: 1024px) {
   #textlogo h1.site-name {
-    font-size: 290%;
+    font-size: 280%;
   }
 }
 #textlogo h2.blog-motto {
@@ -448,12 +448,12 @@ body >header a {
 }
 @media only screen and (min-width: 768px) {
   #textlogo h2.blog-motto {
-    font-size: 110%;
+    font-size: 100%;
   }
 }
 @media only screen and (min-width: 1024px) {
   #textlogo h2.blog-motto {
-    font-size: 120%;
+    font-size: 110%;
   }
 }
 .navbar {
@@ -480,7 +480,7 @@ body >header a {
 header nav {
   float: left;
   width: 100%;
-  font-size: 122.5%;
+  font-size: 112.5%;
   padding-top: 0.5em;
   max-height: 0.01em;
   -webkit-transition: max-height 1s ease-out;
@@ -690,7 +690,7 @@ header nav ul li a:hover {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #ccc;
-  font-size: 110%;
+  font-size: 100%;
   padding-right: 0.3em;
 }
 .category-icon:before {
@@ -720,7 +720,7 @@ header nav ul li a:hover {
 .archive-title h2 {
   width: 90%;
   color: #2ca6cb;
-  font-size: 130%;
+  font-size: 120%;
 }
 .archive-title a {
   color: #2ca6cb;
@@ -797,7 +797,7 @@ header nav ul li a:hover {
 }
 article header.article-info >h1 {
   padding: 0.2em 3%;
-  font-size: 180%;
+  font-size: 170%;
   line-height: 1.5;
   word-wrap: break-word;
   word-break: normal;
@@ -807,7 +807,7 @@ article header.article-info >h1 {
 }
 @media only screen and (min-width: 1024px) {
   article header.article-info >h1 {
-    font-size: 210%;
+    font-size: 200%;
     padding-top: 0.3em;
   }
 }
@@ -837,7 +837,7 @@ article header.article-info >p.article-time {
 }
 article header.article-info >p.article-time:before {
   font-family: "FontAwesome";
-  font-size: 140%;
+  font-size: 130%;
   content: "\f017";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -862,14 +862,14 @@ article .article-content .kb {
 }
 article .article-content h1,
 article .article-content h2 {
-  font-size: 190%;
+  font-size: 180%;
   line-height: 1.2em;
 }
 article .article-content h3,
 article .article-content h4,
 article .article-content h5,
 article .article-content h6 {
-  font-size: 150%;
+  font-size: 140%;
 }
 article .article-content h1,
 article .article-content h2,
@@ -909,7 +909,7 @@ article .article-content blockquote {
   margin: 0.65em 0 0.65em 4%;
   padding-left: 1%;
   line-height: 1.5;
-  font-size: 120%;
+  font-size: 110%;
 }
 article .article-content blockquote footer {
   background: #fafafa;
@@ -925,7 +925,7 @@ article .article-content blockquote cite {
 article .article-content ul,
 article .article-content ol {
   padding-left: 2em;
-  font-size: 115%;
+  font-size: 105%;
 }
 @media only screen and (min-width: 768px) {
   article .article-content ul,
@@ -961,7 +961,7 @@ article .article-content em code {
   text-shadow: 0 1px #fff;
 }
 article .article-content p {
-  font-size: 115%;
+  font-size: 105%;
   line-height: 1.7;
   margin: 0.7em 0;
 }
@@ -1090,7 +1090,7 @@ footer.article-footer {
   position: relative;
 }
 .share a:before {
-  font-size: 110%;
+  font-size: 100%;
   font-family: "FontAwesome";
   text-align: center;
   color: #817c7c;
@@ -1788,7 +1788,7 @@ footer {
   font-family: "covered_by_your_graceregular";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 160%;
+  font-size: 150%;
   line-height: 1.3em;
   width: 90%;
   margin: 0 auto;
@@ -1825,7 +1825,7 @@ footer {
   display: block;
   width: 14%;
   color: #fff;
-  font-size: 190%;
+  font-size: 180%;
   padding: 0.5em;
 }
 @media only screen and (min-width: 1024px) {
@@ -1887,14 +1887,14 @@ footer {
   overflow: auto;
   color: #c5c8c6;
   line-height: 1.5;
-  font-size: 122%;
+  font-size: 112%;
 }
 .article-content .highlight .gutter pre,
 .article-content .gist .gist-file .gist-data .line-numbers {
   color: #009;
   font-size: 0.85em;
   line-height: 1.5;
-  font-size: 122%;
+  font-size: 112%;
 }
 .article-content pre {
   font-family: Monaco, Menlo, Consolas, Courier New, monospace;
