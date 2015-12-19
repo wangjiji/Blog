@@ -4,7 +4,7 @@
   <subtitle><![CDATA[路漫漫其修远兮]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://plasmayao.pw/"/>
-  <updated>2015-12-04T05:35:23.508Z</updated>
+  <updated>2015-12-19T02:44:59.485Z</updated>
   <id>http://plasmayao.pw/</id>
   
   <author>
@@ -13,6 +13,249 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[实验室物品管理]]></title>
+    <link href="http://plasmayao.pw/2015/12/18/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%89%A9%E5%93%81%E7%AE%A1%E7%90%86/"/>
+    <id>http://plasmayao.pw/2015/12/18/实验室物品管理/</id>
+    <published>2015-12-18T12:55:35.000Z</published>
+    <updated>2015-12-19T02:44:59.485Z</updated>
+    <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>A区(柜子)</th>
+<th>物品</th>
+<th>用途 </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1-1</td>
+<td>电脑4台</td>
+<td><br>1. 组会(1)<br>2. 组会(2)<br>3. 涉密 <br>4. 探针 </td>
+</tr>
+<tr>
+<td></td>
+<td>相机</td>
+<td>实验</td>
+</tr>
+<tr>
+<td></td>
+<td>摄像机</td>
+<td>会议</td>
+</tr>
+<tr>
+<td>1-2</td>
+<td>氧气检测仪</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>红外镜片</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>红外测温计</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>波导器件</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>安捷伦文件</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>探针文件</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>钥匙2个</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>电线</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>高阻硅片(抽屉)</td>
+<td>** </td>
+</tr>
+<tr>
+<td>2-1</td>
+<td>光学器件</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>光纤探头(1)</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>光纤光谱仪</td>
+<td>**</td>
+</tr>
+<tr>
+<td>2-2</td>
+<td>尘埃颗粒</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>天线</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>示波器</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>安捷伦保洁袋</td>
+<td>**</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<!-- <table class="table table-bordered table-striped table-condensed"> 
+
+    <tr>  
+        <td>北京</td>  
+    <td>雾霾</td>  
+    </tr>  
+    <tr>  
+        <td>深圳</td>  
+    <td>暴雨</td>  
+</table>  -->
+<!--| ################|#########################|################-->
+<table>
+<thead>
+<tr>
+<th>B区(柜子)</th>
+<th>物品(位置)</th>
+<th>用途(明细) </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1-1</td>
+<td>泡沫材料</td>
+<td>**</td>
+</tr>
+<tr>
+<td>1-3</td>
+<td>一号箱</td>
+<td><br>1. 玻璃仪器<br>2. 钨丝 </td>
+</tr>
+<tr>
+<td></td>
+<td>二号箱</td>
+<td><br>1. 吹风机<br>2. 吸尘器<br>3. 弱磁铁<br>4. 一次性手套(大) </td>
+</tr>
+<tr>
+<td></td>
+<td>氧气发生器</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>旧电脑</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>真空泵</td>
+<td>**</td>
+</tr>
+<tr>
+<td>2-1</td>
+<td>工具包</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>一次性手套(中)</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>螺丝刀</td>
+<td>** </td>
+</tr>
+<tr>
+<td></td>
+<td>订书机</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>肥皂</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>书</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>碗</td>
+<td>**</td>
+</tr>
+<tr>
+<td></td>
+<td>铝架</td>
+<td>**</td>
+</tr>
+<tr>
+<td>2-2</td>
+<td>四号箱</td>
+<td>胶管</td>
+</tr>
+<tr>
+<td></td>
+<td>光谱仪电脑</td>
+<td>**</td>
+</tr>
+<tr>
+<td>2-3</td>
+<td>三号箱</td>
+<td><br>1. 一箱真空器件<br>2. 流量计(3)<br>3. 模具<br>4. 各规格夹子、钉子<br>5. 导线若干、BNC线<br>6. 电源线若干<br>7. 焊锡<br>8. 万用表</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<table>
+<thead>
+<tr>
+<th>A区(柜子)</th>
+<th>物品</th>
+<th>用途 </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1-1</td>
+<td>电脑4台</td>
+<td><br>1. 组会(1)<br>2. ]]>
+    </summary>
+    
+      <category term="实验室" scheme="http://plasmayao.pw/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+    
+      <category term="物品" scheme="http://plasmayao.pw/categories/%E7%89%A9%E5%93%81/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
