@@ -4,7 +4,7 @@
   <subtitle><![CDATA[路漫漫其修远兮]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://plasmayao.pw/"/>
-  <updated>2016-03-13T06:54:53.565Z</updated>
+  <updated>2016-03-13T06:55:55.294Z</updated>
   <id>http://plasmayao.pw/</id>
   
   <author>
@@ -19,14 +19,14 @@
     <link href="http://plasmayao.pw/2016/03/13/Matlab-%E7%AC%94%E8%AE%B0/"/>
     <id>http://plasmayao.pw/2016/03/13/Matlab-笔记/</id>
     <published>2016-03-13T06:48:59.000Z</published>
-    <updated>2016-03-13T06:54:53.565Z</updated>
-    <content type="html"><![CDATA[<h2 id="剔除数据">剔除数据</h2><blockquote>
+    <updated>2016-03-13T06:55:55.294Z</updated>
+    <content type="html"><![CDATA[<h2 id="1-剔除数据">1.剔除数据</h2><blockquote>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">data = load(<span class="string">'3结构.csv'</span>);</span><br><span class="line">n = length(data(:,<span class="number">1</span>));</span><br><span class="line">k=<span class="number">1</span>;</span><br><span class="line"><span class="keyword">for</span> i = <span class="number">1</span>:n</span><br><span class="line">	<span class="keyword">if</span> abs(data(i,<span class="number">2</span>))&lt;<span class="number">5</span> </span><br><span class="line">		;</span><br><span class="line">	<span class="keyword">else</span></span><br><span class="line">			nix(k,:)=data(i,:);k=k+<span class="number">1</span>;</span><br><span class="line">	end</span><br><span class="line">end</span><br><span class="line"> x=data(:,<span class="number">1</span>);y=data(:,<span class="number">2</span>);</span><br></pre></td></tr></table></figure>
 </blockquote>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h2 id="剔除数据">剔除数据</h2><blockquote>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span c]]>
+    <![CDATA[<h2 id="1-剔除数据">1.剔除数据</h2><blockquote>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><sp]]>
     </summary>
     
       <category term="编程" scheme="http://plasmayao.pw/tags/%E7%BC%96%E7%A8%8B/"/>
